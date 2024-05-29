@@ -1,0 +1,38 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Quando&display=swap');
+
+body {
+    background-color: #030925;
+}
+
+
+
+.titulo {
+    color: #EBF5FF;
+    font-family: "Quando", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+.agrupamento {
+
+    display: flex;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.link {
+    margin-left: 40px;
+    background-color: blue;
+    padding: 5px;
+    text-decoration: none;
+    color: #EBF5FF;
+    border-radius: 8px;
+    width:150px;
+    text-align:center;
+}
+
